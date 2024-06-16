@@ -64,16 +64,6 @@ Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` 
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `canvasia`
 
-## 👨‍💻 Expert
-
-<p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://github.com/settings/profile"
-    />
-    <p>&nbsp&nbsp&nbspJhonny Nogueira<br>
     &nbsp&nbsp&nbsp
     <a 
         href="https://github.com/JhonnyN01?tab=repositories">
